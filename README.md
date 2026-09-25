@@ -75,4 +75,4 @@ Muskaan
 
 B.Tech Cybersecurity Student
 
-Interested in Cybersecurity, Ethical Hacking, AI and Computer Vision.
+Interested in Cybersecurity, Ethical Hacking, AI and Computer Vision
